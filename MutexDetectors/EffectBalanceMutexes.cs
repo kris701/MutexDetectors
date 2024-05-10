@@ -3,8 +3,16 @@ using PDDLSharp.Models.PDDL.Expressions;
 
 namespace MutexDetectors
 {
+    /// <summary>
+    /// Finds mutexed based on global effect balance
+    /// </summary>
     public class EffectBalanceMutexes : IMutexDetectors
     {
+        /// <summary>
+        /// Finds mutexed based on global effect balance
+        /// </summary>
+        /// <param name="decl"></param>
+        /// <returns></returns>
         public List<PredicateExp> FindMutexes(PDDLDecl decl)
         {
             List<PredicateExp> mutexCandidates = new List<PredicateExp>();

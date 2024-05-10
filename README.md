@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github.com/kris701/MutexDetectors/assets/22596587/d3f387a6-e0b5-4118-9801-c125a4e64100" width="200" height="200" />
+    <img src="https://github.com/kris701/MutexDetectors/assets/22596587/c3099504-3137-4e2b-b3dc-c5f9b3b4b90a" width="200" height="200" />
 </p>
 
 [![Build and Publish](https://github.com/kris701/MutexDetectors/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/kris701/MutexDetectors/actions/workflows/dotnet-desktop.yml)
