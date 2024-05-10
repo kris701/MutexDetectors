@@ -15,6 +15,13 @@
 # Mutex Detectors
 This project is a collection of mutex detectors.
 
+You can use this package by the CLI tool:
+```
+dotnet run --domain domain.pddl --problem problem.pddl --detector EffectBalance
+```
+
+You can also find this project as a package on the [NuGet Package Manager](https://www.nuget.org/packages/MutexDetectors).
+
 ## Effect Balance Mutex Detector
 
 There is a simple predicate mutex detector included in PDDLSharp.

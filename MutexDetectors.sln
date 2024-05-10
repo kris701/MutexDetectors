@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexDetectors.Tests", "MutexDetectors.Tests\MutexDetectors.Tests.csproj", "{0B12EF74-FA36-43FF-92B6-A4582B719B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexDetectors.CLI", "MutexDetectors.CLI\MutexDetectors.CLI.csproj", "{6E2D72C0-3A48-4BD6-B9A8-EB3CE1597836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{0B12EF74-FA36-43FF-92B6-A4582B719B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B12EF74-FA36-43FF-92B6-A4582B719B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B12EF74-FA36-43FF-92B6-A4582B719B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2D72C0-3A48-4BD6-B9A8-EB3CE1597836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2D72C0-3A48-4BD6-B9A8-EB3CE1597836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2D72C0-3A48-4BD6-B9A8-EB3CE1597836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2D72C0-3A48-4BD6-B9A8-EB3CE1597836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
